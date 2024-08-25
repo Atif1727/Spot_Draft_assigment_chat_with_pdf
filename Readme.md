@@ -68,3 +68,13 @@ Welcome to the "Chat PDF with ollama" Streamlit app! This application allows you
 * **API Key Issues**: Verify that the API key is correctly set up and accessible by the application.
 
 * **File Upload Errors**: Check the format and size of the uploaded PDF files.
+
+
+## download the sample pdf file from here
+
+https://drive.google.com/file/d/1eTZkEPlaNrjmjCYGu03GLILypPFbhg7C/view?usp=sharing
+
+
+### One page documentation to explain the challenges and potentsional improvements
+
+https://docs.google.com/document/d/1fCrx1UHZt7zcQCp0NeMkf4e_5IOWbj92k-uk7y4q194/edit
