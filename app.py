@@ -65,7 +65,7 @@ class PdfChatApp:
         """Run the Streamlit app."""
         
         st.set_page_config(page_title="Chat PDF", page_icon=":file_pdf:")
-        st.markdown("<h1 style='color: #3498db; text-align: center;'>Chat with PDF using Gemini</h1>", unsafe_allow_html=True)
+        st.markdown("<h1 style='color: #3498db; text-align: center;'>Chat with PDFs</h1>", unsafe_allow_html=True)
 
         with st.sidebar:
             st.title("Menu:")
